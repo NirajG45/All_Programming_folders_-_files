@@ -1,0 +1,13 @@
+{
+    "code-runner.showRunCommandInEditorContextMenu": true,
+    "code-runner.showExecutionMessage": true,
+    "code-runner.showRunIconInEditorTitleMenu": true,
+    "code-runner.showStopIconInEditorTitleMenu": true,
+    "code-runner.respectShebang": true,
+    "code-runner.preserveFocus": true,
+    "code-runner.enableAppInsights": true,
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
